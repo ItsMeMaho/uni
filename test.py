@@ -28,8 +28,6 @@ errors_by_type = errors.categorize(
     lambda error: error[0].attributes['type']
 )
 
-ner_anaphor_erros = errors.filer()
-
 # errors_by_type.visualize("pair")
 
 pair_errs = errors_by_type["pair"]["recall_errors"]["all"]
