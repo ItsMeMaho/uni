@@ -2,7 +2,7 @@
 
 ## 2018 - 05
 ### Softwareproject
-* [] Show and tell: A neural image caption generator [[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2015/app/2A_101.pdf)]
+* [TODO] Show and tell: A neural image caption generator [[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2015/app/2A_101.pdf)]
 * [18.05.18] Neural Text Generation: A Practical Guide [[pdf](https://cs.stanford.edu/~zxie/textgen.pdf)]
 * [12.05.18] Stating the Obvious: Extracting Visual Common Sense Knowledge [[pdf](http://www.cs.virginia.edu/~vicente/files/naacl2016.pdf)]
 * [12.05.18] Situation Recognition: Visual Semantic Role Labeling for Image Understanding [[pdf](https://homes.cs.washington.edu/~ali/papers/SituationRecognition.pdf)]
@@ -13,6 +13,7 @@ and Evaluation Measures (Extended Abstract) [[pdf](https://www.ijcai.org/proceed
 * [07.05.18] Show and tell: Lessons learned from the 2015 mscoco image captioning challenge [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7505636)]
 
 ### Computational Literary Studies
+* [TODO] Syntax Matters for Rhetorical Structure: The Case of Chiasmus [[pdf](http://stp.lingfil.uu.se/~marie/CLFL2016.pdf)]
 * [18.05.18] Echoes of Persuasion: The Effect of Euphony in Persuasive Communication [[pdf](https://aclweb.org/anthology/N/N15/N15-1172.pdf)]
 * [10.05.18] A computational analysis of poetic style [[pdf](https://nlp.stanford.edu/pubs/lilt15.pdf)]
 * [10.05.18] A computational linguistic approach to Spanish Golden Age Sonnets: metrical and semantic aspects [[pdf](http://www.dlsi.ua.es/~borja/navarro2015_GoldenAgeSonnets.pdf)]
