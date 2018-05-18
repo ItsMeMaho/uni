@@ -12,3 +12,16 @@
 and Evaluation Measures (Extended Abstract) [[pdf](https://www.ijcai.org/proceedings/2017/0704.pdf)] [09.05.18] 
 * Show and tell: Lessons learned from the 2015 mscoco image captioning challenge [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7505636)] [09.05.18] 
 * Show and tell: Lessons learned from the 2015 mscoco image captioning challenge. [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7505636)] [07.05.18]
+
+### Computational Literary Studies
+* Echoes of Persuasion: The Effect of Euphony in Persuasive Communication [[pdf](https://aclweb.org/anthology/N/N15/N15-1172.pdf)] [18.05.18]
+* A computational analysis of poetic style [[pdf](https://nlp.stanford.edu/pubs/lilt15.pdf)] [10.05.18]
+* A computational linguistic approach to Spanish Golden Age Sonnets: metrical and semantic aspects [[pdf](http://www.dlsi.ua.es/~borja/navarro2015_GoldenAgeSonnets.pdf)] [10.05.18]
+* The Life Cycles of Genres [[pdf](https://www.ideals.illinois.edu/bitstream/handle/2142/90161/LifeCyclesOfGenres.pdf?sequence=2)] [03.05.18]
+* Genre classification on German novels [[pdf](https://www.uni-weimar.de/medien/webis/events/tir-15/tir15-papers-final/Hettinger2015-tir-paper.pdf)] [03.05.18]
+
+### Embeddings for Data Analysis
+* Algorithmic applications of low-distortion geometric embeddings [[ps](https://people.csail.mit.edu/indyk/tut.ps)] [01.05.18]
+
+### Other
+* Path-based Semantic Relatedness on Linked Data and its use to Word and Entity Disambiguation[[pdf](http://iswc2015.semanticweb.org/sites/iswc2015.semanticweb.org/files/93660401.pdf)] [11.05.18]
