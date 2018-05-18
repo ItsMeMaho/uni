@@ -2,14 +2,9 @@
 
 ## 2018 - 05
 ### Softwareproject
-* Vinyals, O., Toshev, A., Bengio, S., & Erhan, D. (2015, June). [Show and tell: A neural image caption generator.](https://www.cv-foundation.org/openaccess/content_cvpr_2015/app/2A_101.pdf) *In Computer Vision and Pattern Recognition (CVPR), 2015 IEEE Conference on (pp. 3156-3164). IEEE.*
-* Xie, Z. (2017). [Neural Text Generation: A Practical Guide](https://cs.stanford.edu/~zxie/textgen.pdf)
-*Technical report, Stanford University.* (18.05.18)
-* Yatskar, M., Ordonez, V., and Farhadi, A. (2016a). [Stating the Obvious: Extracting Visual Common Sense Knowledge.](http://www.cs.virginia.edu/~vicente/files/naacl2016.pdf)
-*In Proceedings of the 2016 Conference of the North American Chapter of the
-Association for Computational Linguistics: Human Language Technologies, pages
-193–198*  
-*(12.05.18)*
+* Show and tell: A neural image caption generator [pdf] []
+* Neural Text Generation: A Practical Guide [pdf](https://cs.stanford.edu/~zxie/textgen.pdf) [18.05.18]
+* Stating the Obvious: Extracting Visual Common Sense Knowledge [pdf](http://www.cs.virginia.edu/~vicente/files/naacl2016.pdf) [12.05.18]
 * Mark Yatskar, Luke Zettlemoyer, Ali Farhadi (2016): [Situation Recognition: Visual Semantic Role Labeling for Image Understanding](https://homes.cs.washington.edu/~ali/papers/SituationRecognition.pdf), *2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR).*  
 *(12.05.18)*
 * Novikova, J., Duˇsek, O., Cercas Curry, A., and Rieser, V. (2017). [Why We Need New Evaluation Metrics for NLG.](https://arxiv.org/pdf/1707.06875.pdf)
