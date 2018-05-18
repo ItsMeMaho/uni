@@ -2,17 +2,17 @@
 
 ## 2018 - 05
 ### Softwareproject
-* Show and tell: A neural image caption generator [pdf] []
-* Neural Text Generation: A Practical Guide [pdf](https://cs.stanford.edu/~zxie/textgen.pdf) [18.05.18]
-* Stating the Obvious: Extracting Visual Common Sense Knowledge [pdf](http://www.cs.virginia.edu/~vicente/files/naacl2016.pdf) [12.05.18]
-* Mark Yatskar, Luke Zettlemoyer, Ali Farhadi (2016): [Situation Recognition: Visual Semantic Role Labeling for Image Understanding](https://homes.cs.washington.edu/~ali/papers/SituationRecognition.pdf), *2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR).*  
-*(12.05.18)*
+* Show and tell: A neural image caption generator [[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2015/app/2A_101.pdf)] []
+* Neural Text Generation: A Practical Guide [[pdf](https://cs.stanford.edu/~zxie/textgen.pdf)] [18.05.18]
+* Stating the Obvious: Extracting Visual Common Sense Knowledge {[pdf](http://www.cs.virginia.edu/~vicente/files/naacl2016.pdf)][12.05.18]
+* Situation Recognition: Visual Semantic Role Labeling for Image Understanding [[pdf](https://homes.cs.washington.edu/~ali/papers/SituationRecognition.pdf)]
+[12.05.18]
 * Novikova, J., Duˇsek, O., Cercas Curry, A., and Rieser, V. (2017). [Why We Need New Evaluation Metrics for NLG.](https://arxiv.org/pdf/1707.06875.pdf)
 *In Proceedings of the 2017 Conference on Empirical Methods in Natural Language
 Processing, pages 2241–2252, Copenhagen, Denmark*  
-*(12.05.18)* 
+[12.05.18] 
 * Gella, S., & Keller, F. (2017). [An Analysis of Action Recognition Datasets for Language and Vision Tasks.](https://arxiv.org/pdf/1704.07129.pdf) *arXiv preprint arXiv:1704.07129.*  
-*(12.05.18)*
+[12.05.18]
 * Bernardi, R., Cakici, R., Elliott, D., Erdem, A., Erdem, E., Ikizler-Cinbis, N.,
 Keller, F., Muscat, A., Plank, B., et al. (2016). [Automatic Description Generation from Images: A Survey of Models, Datasets,
 and Evaluation Measures (Extended Abstract)](https://www.ijcai.org/proceedings/2017/0704.pdf)
