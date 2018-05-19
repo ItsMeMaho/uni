@@ -32,7 +32,7 @@ shifted by a global constant
 
         - Eigenvalue weighting
 
-        -vector normalization
+        - vector normalization
 
 SGNS only computational efficient way on very large corpus, but in some cases tuning a larger space of hyperparameters more beneficial
 
