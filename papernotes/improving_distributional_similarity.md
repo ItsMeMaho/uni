@@ -1,5 +1,4 @@
-# Improving Distributional Similarity
-with Lessons Learned from Word Embeddings
+# Improving Distributional Similarity with Lessons Learned from Word Embeddings
 
 **Goal:** Show that embedding algorithms aren't superiour per se, but more so system design choices/hyperparameters
 
