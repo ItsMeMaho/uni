@@ -2,6 +2,7 @@
 
 ## 2018 - 05
 ### Softwareproject
+* [TODO] Neural Machine Translation and Sequence-to-sequence Models: A Tutorial [[pdf](https://arxiv.org/pdf/1703.01619.pdf)]
 * [TODO] Show and tell: A neural image caption generator [[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2015/app/2A_101.pdf)]
 * [18.05.18] Neural Text Generation: A Practical Guide [[pdf](https://cs.stanford.edu/~zxie/textgen.pdf)]
 * [12.05.18] Stating the Obvious: Extracting Visual Common Sense Knowledge [[pdf](http://www.cs.virginia.edu/~vicente/files/naacl2016.pdf)]
@@ -21,6 +22,9 @@ and Evaluation Measures (Extended Abstract) [[pdf](https://www.ijcai.org/proceed
 * [03.05.18] Genre classification on German novels [[pdf](https://www.uni-weimar.de/medien/webis/events/tir-15/tir15-papers-final/Hettinger2015-tir-paper.pdf)]
 
 ### Embeddings for Data Analysis
+* [TODO] Improving Word Representations via Global Context and Multiple Word Prototypes [[pdf](http://www.aclweb.org/anthology/P12-1092)]
+* [TODO] GloVe: Global Vectors for Word Representation [[pdf](http://aclweb.org/anthology/D/D14/D14-1162.pdf)]
+* [TODO] Efficient Estimation of Word Representations in Vector Space [[pdf](https://arxiv.org/pdf/1301.3781.pdf)]
 * [01.05.18] Algorithmic applications of low-distortion geometric embeddings [[ps](https://people.csail.mit.edu/indyk/tut.ps)]
 
 ### Other
