@@ -24,8 +24,8 @@ and Evaluation Measures (Extended Abstract) [[pdf](https://www.ijcai.org/proceed
 ### Embeddings for Data Analysis
 * [TODO] Improving Word Representations via Global Context and Multiple Word Prototypes [[pdf](http://www.aclweb.org/anthology/P12-1092)]
 * [TODO] GloVe: Global Vectors for Word Representation [[pdf](http://aclweb.org/anthology/D/D14/D14-1162.pdf)]
-* [TODO] Improving Distributional Similarity with Lessons Learned from Word Embeddings [[pdf](https://transacl.org/ojs/index.php/tacl/article/download/570/124)]
-* [TODO] [Efficient Estimation of Word Representations in Vector Space](papernotes/efficient_estimation_word_representation.md) [[pdf](https://arxiv.org/pdf/1301.3781.pdf)]
+* [19.05.18] [Improving Distributional Similarity with Lessons Learned from Word Embeddings](papernotes/improving_distributional_similarity.md) [[pdf](https://transacl.org/ojs/index.php/tacl/article/download/570/124)]
+* [19.05.18] [Efficient Estimation of Word Representations in Vector Space](papernotes/efficient_estimation_word_representation.md) [[pdf](https://arxiv.org/pdf/1301.3781.pdf)]
 * [01.05.18] Algorithmic applications of low-distortion geometric embeddings [[ps](https://people.csail.mit.edu/indyk/tut.ps)]
 
 ### Other
