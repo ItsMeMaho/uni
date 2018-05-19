@@ -1,6 +1,6 @@
 # Efficient Estimation of Word Representations in Vector Space
 
-Goal: produce word-vectors from huge datasets that capture semantic (and syntactic) similarity
+**Goal:** produce word-vectors from huge datasets that capture semantic (and syntactic) similarity
 
 ## Notes
 
