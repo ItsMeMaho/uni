@@ -1,0 +1,2 @@
+# Improving Word Representations via Global Context and Multiple Word Prototypes
+**Goals:** learn word embeddings that incorporate both local and global dcoument context and accounts for homonymy/polysemy
