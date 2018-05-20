@@ -3,6 +3,8 @@
 ## 2018 - 05
 ### Softwareproject
 * [TODO] Neural Machine Translation and Sequence-to-sequence Models: A Tutorial [[pdf](https://arxiv.org/pdf/1703.01619.pdf)]
+* [20.05.18] [Feuding Families and Former Friends: Unsupervised Learning for Dynamic Fictional Reclationships](papernotes/feuding_families)[[pdf](http://www.aclweb.org/anthology/N16-1180)]
+* [20.05.18] Inducing Semantic Micro-Clusters from Deep Multi-View Representations of Novels [[pdf](http://www.aclweb.org/anthology/D17-1200)]
 * [19.05.18] Show and tell: A neural image caption generator [[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2015/app/2A_101.pdf)]
 * [18.05.18] Neural Text Generation: A Practical Guide [[pdf](https://cs.stanford.edu/~zxie/textgen.pdf)]
 * [12.05.18] Stating the Obvious: Extracting Visual Common Sense Knowledge [[pdf](http://www.cs.virginia.edu/~vicente/files/naacl2016.pdf)]
