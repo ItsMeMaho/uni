@@ -3,7 +3,7 @@
 ## 2018 - 05
 ### Softwareproject
 * [TODO] Neural Machine Translation and Sequence-to-sequence Models: A Tutorial [[pdf](https://arxiv.org/pdf/1703.01619.pdf)]
-* [20.05.18] [Feuding Families and Former Friends: Unsupervised Learning for Dynamic Fictional Reclationships](papernotes/feuding_families.md)[[pdf](http://www.aclweb.org/anthology/N16-1180)]
+* [20.05.18] [Feuding Families and Former Friends: Unsupervised Learning for Dynamic Fictional Reclationships](papernotes/feuding_families.md) [[pdf](http://www.aclweb.org/anthology/N16-1180)]
 * [20.05.18] Inducing Semantic Micro-Clusters from Deep Multi-View Representations of Novels [[pdf](http://www.aclweb.org/anthology/D17-1200)]
 * [19.05.18] Show and tell: A neural image caption generator [[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2015/app/2A_101.pdf)]
 * [18.05.18] Neural Text Generation: A Practical Guide [[pdf](https://cs.stanford.edu/~zxie/textgen.pdf)]
@@ -16,7 +16,7 @@ and Evaluation Measures (Extended Abstract) [[pdf](https://www.ijcai.org/proceed
 * [07.05.18] Show and tell: Lessons learned from the 2015 mscoco image captioning challenge [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7505636)]
 
 ### Computational Literary Studies
-* [TODO] Syntax Matters for Rhetorical Structure: The Case of Chiasmus [[pdf](http://stp.lingfil.uu.se/~marie/CLFL2016.pdf)]
+* [24.05.18] [Syntax Matters for Rhetorical Structure: The Case of Chiasmus](papernotes/case_of_chiasmus.md) [[pdf](http://stp.lingfil.uu.se/~marie/CLFL2016.pdf)]
 * [18.05.18] Echoes of Persuasion: The Effect of Euphony in Persuasive Communication [[pdf](https://aclweb.org/anthology/N/N15/N15-1172.pdf)]
 * [10.05.18] A computational analysis of poetic style [[pdf](https://nlp.stanford.edu/pubs/lilt15.pdf)]
 * [10.05.18] A computational linguistic approach to Spanish Golden Age Sonnets: metrical and semantic aspects [[pdf](http://www.dlsi.ua.es/~borja/navarro2015_GoldenAgeSonnets.pdf)]
