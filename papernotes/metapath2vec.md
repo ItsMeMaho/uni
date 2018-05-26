@@ -4,7 +4,7 @@
 
 ## Notes
 
-*A meta-path is a sequence of node classes and edge types between two given nodes. Meta-paths can be used to predict the closeness, or similarity, among graph nodes. This is especially useful when an edge between two nodes does not exist.
+* A meta-path is a sequence of node classes and edge types between two given nodes. Meta-paths can be used to predict the closeness, or similarity, among graph nodes. This is especially useful when an edge between two nodes does not exist.
 
 * formalize the heterogeneous network representation learning problem, where the objective is to simultaneously learn the low-dimensional and latent embeddings for multiple
 types of nodes.
