@@ -1,5 +1,14 @@
 # uni - read papers
 
+## 2018 - 06
+### Softwareproject
+
+### Computational Literary Studies
+
+### Embeddings for Data Analysis
+
+### Other
+
 ## 2018 - 05
 ### Softwareproject
 * [TODO] Neural Machine Translation and Sequence-to-sequence Models: A Tutorial [[pdf](https://arxiv.org/pdf/1703.01619.pdf)]
@@ -24,6 +33,7 @@ and Evaluation Measures (Extended Abstract) [[pdf](https://www.ijcai.org/proceed
 * [03.05.18] Genre classification on German novels [[pdf](https://www.uni-weimar.de/medien/webis/events/tir-15/tir15-papers-final/Hettinger2015-tir-paper.pdf)]
 
 ### Embeddings for Data Analysis
+* [26.05.18] [metapath2vec: Scalable Representation Learning for Heterogeneous Networks](papernotes/metapath2vec) [[pdf](https://www3.nd.edu/~dial/publications/dong2017metapath2vec.pdf)]
 * [19.05.18] [Improving Word Representations via Global Context and Multiple Word Prototypes](papernotes/improving_word_representations.md) [[pdf](http://www.aclweb.org/anthology/P12-1092)]
 * [19.05.18] [GloVe: Global Vectors for Word Representation](papernotes/glove.md) [[pdf](http://aclweb.org/anthology/D/D14/D14-1162.pdf)]
 * [19.05.18] [Improving Distributional Similarity with Lessons Learned from Word Embeddings](papernotes/improving_distributional_similarity.md) [[pdf](https://transacl.org/ojs/index.php/tacl/article/download/570/124)]
