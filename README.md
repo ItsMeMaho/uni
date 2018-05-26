@@ -34,7 +34,6 @@ and Evaluation Measures (Extended Abstract) [[pdf](https://www.ijcai.org/proceed
 
 ### Embeddings for Data Analysis
 * [26.05.18] RDF2Vec: RDF Graph Embeddings for Data Mining [[pdf](https://ub-madoc.bib.uni-mannheim.de/41307/1/Ristoski_RDF2Vec.pdf)]
-
 * [26.05.18] [metapath2vec: Scalable Representation Learning for Heterogeneous Networks](papernotes/metapath2vec.md) [[pdf](https://www3.nd.edu/~dial/publications/dong2017metapath2vec.pdf)]
 * [19.05.18] [Improving Word Representations via Global Context and Multiple Word Prototypes](papernotes/improving_word_representations.md) [[pdf](http://www.aclweb.org/anthology/P12-1092)]
 * [19.05.18] [GloVe: Global Vectors for Word Representation](papernotes/glove.md) [[pdf](http://aclweb.org/anthology/D/D14/D14-1162.pdf)]
