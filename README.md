@@ -25,6 +25,7 @@ and Evaluation Measures (Extended Abstract) [[pdf](https://www.ijcai.org/proceed
 * [07.05.18] Show and tell: Lessons learned from the 2015 mscoco image captioning challenge [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7505636)]
 
 ### Computational Literary Studies
+* [28.05.18] Intersecting Word Vectors to Take Figurative Language to New Heights [[pdf](http://www.aclweb.org/anthology/W16-0203)]
 * [24.05.18] [Syntax Matters for Rhetorical Structure: The Case of Chiasmus](papernotes/case_of_chiasmus.md) [[pdf](http://stp.lingfil.uu.se/~marie/CLFL2016.pdf)]
 * [18.05.18] Echoes of Persuasion: The Effect of Euphony in Persuasive Communication [[pdf](https://aclweb.org/anthology/N/N15/N15-1172.pdf)]
 * [10.05.18] A computational analysis of poetic style [[pdf](https://nlp.stanford.edu/pubs/lilt15.pdf)]
