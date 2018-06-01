@@ -2,16 +2,21 @@
 
 ## 2018 - 06
 ### Softwareproject
+* [TODO] Neural Machine Translation and Sequence-to-sequence Models: A Tutorial [[pdf](https://arxiv.org/pdf/1703.01619.pdf)]
 
 ### Computational Literary Studies
+[TODO] Grasping the Finer Point: A Supervised Similarity Network for Metaphor Detection [[pdf](https://arxiv.org/pdf/1709.00575.pdf)]
 
 ### Embeddings for Data Analysis
+[TODO] Exponential Family Embeddings [[pdf](https://pdfs.semanticscholar.org/54ed/3bc25c3dac5f782159519b6bf574b0e0a584.pdf)]
 
 ### Other
+[TODO] Enriching Argumentative Texts with Implicit Knowledge [[pdf](https://pdfs.semanticscholar.org/c9ef/1900835aa2d436e903770627c90d77b5eb7e.pdf)]
+[TODO] Classifying Arguments by Scheme [[pdf](http://www.aclweb.org/anthology/P11-1099)]
+[TODO] A classification system for argumentation schemes [[pdf](https://content.iospress.com/download/argument-and-computation/1123772?id=argument-and-computation%2F1123772)]
 
 ## 2018 - 05
 ### Softwareproject
-* [TODO] Neural Machine Translation and Sequence-to-sequence Models: A Tutorial [[pdf](https://arxiv.org/pdf/1703.01619.pdf)]
 * [20.05.18] [Feuding Families and Former Friends: Unsupervised Learning for Dynamic Fictional Reclationships](papernotes/feuding_families.md) [[pdf](http://www.aclweb.org/anthology/N16-1180)]
 * [20.05.18] Inducing Semantic Micro-Clusters from Deep Multi-View Representations of Novels [[pdf](http://www.aclweb.org/anthology/D17-1200)]
 * [19.05.18] Show and tell: A neural image caption generator [[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2015/app/2A_101.pdf)]
@@ -34,6 +39,7 @@ and Evaluation Measures (Extended Abstract) [[pdf](https://www.ijcai.org/proceed
 * [03.05.18] Genre classification on German novels [[pdf](https://www.uni-weimar.de/medien/webis/events/tir-15/tir15-papers-final/Hettinger2015-tir-paper.pdf)]
 
 ### Embeddings for Data Analysis
+* [31.05.18] Dynamic Embeddings for Language Evolution [[pdf](http://www.cs.columbia.edu/~blei/papers/RudolphBlei2018.pdf)]
 * [26.05.18] RDF2Vec: RDF Graph Embeddings for Data Mining [[pdf](https://ub-madoc.bib.uni-mannheim.de/41307/1/Ristoski_RDF2Vec.pdf)]
 * [26.05.18] [metapath2vec: Scalable Representation Learning for Heterogeneous Networks](papernotes/metapath2vec.md) [[pdf](https://www3.nd.edu/~dial/publications/dong2017metapath2vec.pdf)]
 * [19.05.18] [Improving Word Representations via Global Context and Multiple Word Prototypes](papernotes/improving_word_representations.md) [[pdf](http://www.aclweb.org/anthology/P12-1092)]
