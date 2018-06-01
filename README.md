@@ -9,6 +9,10 @@
 
 ### Embeddings for Data Analysis
 * [TODO] Exponential Family Embeddings [[pdf](https://pdfs.semanticscholar.org/54ed/3bc25c3dac5f782159519b6bf574b0e0a584.pdf)]
+* [TODO] Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings [[pdf](http://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf)]
+* [TODO] Semantics derived automatically from language corpora contain human-like biases [[pdf](http://science.sciencemag.org.ubproxy.ub.uni-heidelberg.de/content/sci/356/6334/183.full.pdf)]
+* [01.06.18] Evaluation methods for unsupervised word embeddings [[pdf](http://aclweb.org/anthology/D15-1036)]
+* [01.06.18] The strange geometry of skip-gram with negative sampling [[pdf](https://www.aclweb.org/anthology/D17-1308)]
 
 ### Other
 * [TODO] Enriching Argumentative Texts with Implicit Knowledge [[pdf](https://pdfs.semanticscholar.org/c9ef/1900835aa2d436e903770627c90d77b5eb7e.pdf)]
