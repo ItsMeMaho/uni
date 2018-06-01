@@ -5,15 +5,15 @@
 * [TODO] Neural Machine Translation and Sequence-to-sequence Models: A Tutorial [[pdf](https://arxiv.org/pdf/1703.01619.pdf)]
 
 ### Computational Literary Studies
-[TODO] Grasping the Finer Point: A Supervised Similarity Network for Metaphor Detection [[pdf](https://arxiv.org/pdf/1709.00575.pdf)]
+* [TODO] Grasping the Finer Point: A Supervised Similarity Network for Metaphor Detection [[pdf](https://arxiv.org/pdf/1709.00575.pdf)]
 
 ### Embeddings for Data Analysis
-[TODO] Exponential Family Embeddings [[pdf](https://pdfs.semanticscholar.org/54ed/3bc25c3dac5f782159519b6bf574b0e0a584.pdf)]
+* [TODO] Exponential Family Embeddings [[pdf](https://pdfs.semanticscholar.org/54ed/3bc25c3dac5f782159519b6bf574b0e0a584.pdf)]
 
 ### Other
-[TODO] Enriching Argumentative Texts with Implicit Knowledge [[pdf](https://pdfs.semanticscholar.org/c9ef/1900835aa2d436e903770627c90d77b5eb7e.pdf)]
-[TODO] Classifying Arguments by Scheme [[pdf](http://www.aclweb.org/anthology/P11-1099)]
-[TODO] A classification system for argumentation schemes [[pdf](https://content.iospress.com/download/argument-and-computation/1123772?id=argument-and-computation%2F1123772)]
+* [TODO] Enriching Argumentative Texts with Implicit Knowledge [[pdf](https://pdfs.semanticscholar.org/c9ef/1900835aa2d436e903770627c90d77b5eb7e.pdf)]
+* [TODO] Classifying Arguments by Scheme [[pdf](http://www.aclweb.org/anthology/P11-1099)]
+* [TODO] A classification system for argumentation schemes [[pdf](https://content.iospress.com/download/argument-and-computation/1123772?id=argument-and-computation%2F1123772)]
 
 ## 2018 - 05
 ### Softwareproject
