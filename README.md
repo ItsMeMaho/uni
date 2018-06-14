@@ -5,7 +5,9 @@
 * [TODO] Neural Machine Translation and Sequence-to-sequence Models: A Tutorial [[pdf](https://arxiv.org/pdf/1703.01619.pdf)]
 
 ### Computational Literary Studies
-* [TODO] Grasping the Finer Point: A Supervised Similarity Network for Metaphor Detection [[pdf](https://arxiv.org/pdf/1709.00575.pdf)]
+* [14.06.18] Gender-Based Vocation Identification in Swedish 19th Century Prose Fiction using Linguistic Patterns, NER and CRF Learning [[pdf](https://pdfs.semanticscholar.org/1ae9/89d9ea6cc1f7f62d89296a230890b54cd9bb.pdf)]
+* [13.06.18] Rule-based Coreference Resolution in German Historic Novels [[pdf](http://www.aclweb.org/anthology/W15-0711)]
+* [07.06.18] Grasping the Finer Point: A Supervised Similarity Network for Metaphor Detection [[pdf](https://arxiv.org/pdf/1709.00575.pdf)]
 
 ### Embeddings for Data Analysis
 * [03.06.18] Exponential Family Embeddings [[pdf](https://pdfs.semanticscholar.org/54ed/3bc25c3dac5f782159519b6bf574b0e0a584.pdf)]
