@@ -1,8 +1,18 @@
 # uni - read papers
 
-## 2018 - 06
+## 2018 - 07
+
 ### Softwareproject
 * [TODO] Neural Machine Translation and Sequence-to-sequence Models: A Tutorial [[pdf](https://arxiv.org/pdf/1703.01619.pdf)]
+
+### Computational Literary Studies
+* [01.07.18] All the World’s a Stage: Learning Character Models from Film [[pdf](https://www.aaai.org/ocs/index.php/AIIDE/AIIDE11/paper/viewFile/4065/4411&embedded=true)]
+
+### Other
+
+[//]: # (This may be the most platform independent comment)
+
+## 2018 - 06
 
 ### Computational Literary Studies
 * [28.06.18] Identification of Speakers in Novels [[pdf](http://www.aclweb.org/anthology/P13-1129)]
