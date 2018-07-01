@@ -10,7 +10,6 @@
 
 ### Other
 
-[//]: # (This may be the most platform independent comment)
 <!-- 
 ###############################################################################
 -->
@@ -36,6 +35,10 @@
 * [TODO] A classification system for argumentation schemes [[pdf](https://content.iospress.com/download/argument-and-computation/1123772?id=argument-and-computation%2F1123772)]
 * [25.06.18] Classifying Arguments by Scheme [[pdf](http://www.aclweb.org/anthology/P11-1099)]
 * [03.06.18] Enriching Argumentative Texts with Implicit Knowledge [[pdf](https://pdfs.semanticscholar.org/c9ef/1900835aa2d436e903770627c90d77b5eb7e.pdf)]
+
+<!-- 
+###############################################################################
+-->
 
 ## 2018 - 05
 ### Softwareproject
