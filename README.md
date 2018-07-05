@@ -6,9 +6,11 @@
 * [TODO] Neural Machine Translation and Sequence-to-sequence Models: A Tutorial [[pdf](https://arxiv.org/pdf/1703.01619.pdf)]
 
 ### Computational Literary Studies
+* [03.08.18] Modeling Evolving Relationships Between Characters in Literary Novels [[pdf](http://legacydirs.umiacs.umd.edu/~hal/docs/daume16literary.pdf)]
 * [01.07.18] All the World’s a Stage: Learning Character Models from Film [[pdf](https://www.aaai.org/ocs/index.php/AIIDE/AIIDE11/paper/viewFile/4065/4411&embedded=true)]
 
 ### Other
+* [TODO] A classification system for argumentation schemes [[pdf](https://content.iospress.com/download/argument-and-computation/1123772?id=argument-and-computation%2F1123772)]
 
 <!-- 
 ###############################################################################
@@ -32,7 +34,6 @@
 * [01.06.18] The strange geometry of skip-gram with negative sampling [[pdf](https://www.aclweb.org/anthology/D17-1308)]
 
 ### Other
-* [TODO] A classification system for argumentation schemes [[pdf](https://content.iospress.com/download/argument-and-computation/1123772?id=argument-and-computation%2F1123772)]
 * [25.06.18] Classifying Arguments by Scheme [[pdf](http://www.aclweb.org/anthology/P11-1099)]
 * [03.06.18] Enriching Argumentative Texts with Implicit Knowledge [[pdf](https://pdfs.semanticscholar.org/c9ef/1900835aa2d436e903770627c90d77b5eb7e.pdf)]
 
